@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/PDI-Perumahan/Backend-Team.git
+[submodule "Website"]
+	path = Website
+	url = https://github.com/PDI-Perumahan/Website-Team.git

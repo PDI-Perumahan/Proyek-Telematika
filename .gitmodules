@@ -4,3 +4,6 @@
 [submodule "Website"]
 	path = Website
 	url = https://github.com/PDI-Perumahan/Website-Team.git
+[submodule "VR-env"]
+	path = VR-env
+	url = https://github.com/PDI-Perumahan/VR-Team.git
